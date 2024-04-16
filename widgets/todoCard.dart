@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import '../objects/team.dart';
-import '../objects/person.dart';
-import 'package:google_fonts/google_fonts.dart';
 
 class TodoCard extends StatelessWidget {
   final int startHour;
